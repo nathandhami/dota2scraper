@@ -1,0 +1,1 @@
+from dota2scrape.constants import HERO_NAMES
